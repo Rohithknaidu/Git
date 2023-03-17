@@ -10,8 +10,6 @@ func main(){
 			fmt.Printf("%d bar\n",m)
 		}else if m%3==0{
 			fmt.Printf("%d foo\n",m)
-		}else{
-			fmt.Printf("%d\n",m)
 		}
 	}
 }
